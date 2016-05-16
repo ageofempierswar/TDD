@@ -1,0 +1,2 @@
+C:\Users\Christopher\Dropbox\EC utbildningen\TDD\Uppgifter\Extra\Extra_Labb_1\Labb_1_CoinChangerApplication\bin\Debug\Labb_1_CoinChangerApplication.exe.config
+F:\DropBox\Dropbox\EC utbildningen\TDD\Uppgifter\Extra\Extra_Labb_1\Labb_1_CoinChangerApplication\bin\Debug\Labb_1_CoinChangerApplication.exe.config
